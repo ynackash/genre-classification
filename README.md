@@ -6,8 +6,12 @@
 
 Dataset: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
-*The goal of the project is to perform an end to end dataset analysis (data cleaning, model training, hyperparameter selection, model evaluation).*
+Repo Files:
 
-*Ensure that the dataset you sourced does not contain personal identifiable information and is not a synthetic dataset. Make sure you understand how the dataset was collected (e.g. is it scraped from the web? Is it based on human or automatic annotation?)*
+* spotify_tracks_dataset.csv - Raw CSV of extracted track data from Spotify's API, via Kaggle.
 
-*For the final project you will form a group of 3 or 4 people. Your group can only include members from the section in which you are enrolled. You will pick your own dataset (each group should have a different dataset). You will present your final project in class during the final session (for ~ 15 min).*
+* main.ipynb - This is the notebook that contains our experiments and models.
+
+* MIDS_207_final_presentation.pdf - PDF version of our final presentation.
+
+Objective: Employ a variety of data analysis and machine learning techniques in order to predict genres for tracks, using audio characteristics.
